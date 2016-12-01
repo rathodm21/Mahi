@@ -5,5 +5,5 @@ ericsson global india
 2016
 bengaluru
 edited for jenkins
-hey there :wq
+hey there
 
